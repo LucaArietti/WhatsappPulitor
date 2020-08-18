@@ -5,6 +5,9 @@ This tool provides a quick solution to delete WhatsApp's multimedia files older 
 The tool will remove all types of multimedia files, except documents. Since the only type of multimedia that doesn't have the date written in the file's name are documents, this tool cannot remove them. But still he tries.
 
 ## How to use
-Set the `date_before_which_to_delete` variable to the desired date (files before this date will be deleted). The value must be in the form YYmmdd (year in complete form, month and day; all joint).
+Open the file `whatsapp_pulitor.py`, copy to notepad and set the `date_before_which_to_delete` variable to the desired date (files before this date will be deleted). The value must be in the form YYmmdd (year in complete form, month and day; all joint).
 
 Transfer the code to the android device and run it with a Python3 interpreter app, [for example this](https://www.qpython.com/) - [download from Google Play Store](https://play.google.com/store/apps/details?id=org.qpython.qpy3).
+
+## Tag
+WhatsApp Pulitor Cleaner WhatsAppCleaner full memory remove media files
